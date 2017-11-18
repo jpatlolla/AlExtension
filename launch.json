@@ -1,0 +1,17 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "al",
+			"request": "publish",
+			"name": "Publish",
+			"server": "http://localhost",
+			"serverInstance": "navision_main",
+			"tenant": "default",
+			"authentication": "Windows",
+			"windowsauthentication" : true,
+			"startupObjectId": 22
+			
+		}
+	]
+}
